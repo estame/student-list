@@ -11,7 +11,6 @@ Event website: https://www.eventbrite.com/e/multi-disciplinary-hands-on-blockcha
 
 **New York, 2018-05-10**
 
-* Angie Lau -- Narramur, Chief Narrator www.narramur.com 
 * Robert Schwentker -- https://dlt.education
 * Mariya Mego Vela -- Galvanize Web Immersive
 * Christina Maldonado -- Student
@@ -36,6 +35,7 @@ Event website: https://www.eventbrite.com/e/multi-disciplinary-hands-on-blockcha
 * Katie Sievers - Student
 * Melissa Powell
 * Gage Valentino
+* Esther Ng -- www.sourcecapital.co
 
 **Philadelplhia, 2018-06-20**
 
@@ -49,5 +49,6 @@ Event website: https://www.eventbrite.com/e/multi-disciplinary-hands-on-blockcha
 
 **Hong Kong, 2018-07-27**
 
+* Esther Ng -- www.sourcecapital.co
 * Angie Lau -- Narramur, Chief Narrator www.narramur.com
 * ADD YOUR NAME ABOVE HERE
